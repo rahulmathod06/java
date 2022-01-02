@@ -5,5 +5,3 @@ This is the simplest possible Java webapp for testing servlet container deployme
 test1
 test2
 test3
-tt
-yy
